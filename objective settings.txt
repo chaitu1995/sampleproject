@@ -1,0 +1,30 @@
+----Service Ticket Management (delivery) --weigthage ---30%
+
+1).Ticket  Analysis, Priority evaluation, Clarifications & Right Assumptions & Closure.
+2).End user management.
+3).Weekend support.
+4).Non-Functional Requirement management.
+5).Adherence to agreed acceptance criteria.
+6) Good understanding of allocated applications and overall System.
+7) Prepare/maintain/use applicable Checklists, ensure Self-Review.
+8) Gain good familiarity with Ticketing tools.
+9) Alignment to allocated Shifts
+
+-----SLA and Process Adherence(Quality)---weigthage -30%
+
+1) Adherence to Applicable Metrics/ Goals (Refer Annexure).
+2) Create problem tickets upon discussion with leads.
+3)Contractual adherence and obligation management(Compliance to Innovative /Minor enhancement hours, SLA compliance to avoid penalty etc.
+4)Provide ideas and ensure allocated idea implementation.
+5) Zero penalty/ revenue loss.
+
+-----Knowledge Management and Tool usage --15%
+1) Create Knowledge Articles & Documentations.
+2) Identify Shift left opportunity.
+3) Identify and implement ideas for Incident reduction & Productivity gains.
+4) Effective usage of Knowledgebase, checklist etc in day - to - day  operation .
+
+
+
+
+
